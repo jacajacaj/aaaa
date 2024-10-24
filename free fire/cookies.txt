@@ -1,0 +1,19 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+recargajogo.com.br	TRUE	/	FALSE	1999999999	source	pc
+recargajogo.com.br	TRUE	/	FALSE	1999999999	region	BR
+recargajogo.com.br	TRUE	/	FALSE	1999999999	mspid2	8ff3ee21fe5c2307449b83016013e948
+recargajogo.com.br	TRUE	/	FALSE	1999999999	SameSite	none
+americanas.com.br	TRUE	/	FALSE	1999999999	MobileOptOut	1
+americanas.com.br	TRUE	/	FALSE	1999999999	b2wDevice	eyJvcyI6IiIsIm9zVmVyc2lvbiI6IiIsInZlbmRvciI6IiIsInR5cGUiOiJkZXNrdG9wIiwibWt0TmFtZSI6IiIsIm1vZGVsIjoiIiwibW9iaWxlT3B0T3V0IjoiZmFsc2UifQ==
+americanas.com.br	TRUE	/	FALSE	1999999999	b2wDeviceType	desktop
+.americanas.com.br	TRUE	/	FALSE	1999999999	searchTestAB	old
+.americanas.com.br	TRUE	/	FALSE	1999999999	catalogTestAB	out
+.americanas.com.br	TRUE	/	FALSE	1999999999	b2wChannel	ACOM
+.americanas.com.br	TRUE	/	FALSE	1999999999	B2W-IU	false
+.americanas.com.br	TRUE	/	FALSE	1999999999	cdn-lat	-8.05
+.americanas.com.br	TRUE	/	FALSE	1999999999	cdn-long	-34.90
+.americanas.com.br	TRUE	/	FALSE	1999999999	cdn-country	BR
+.americanas.com.br	TRUE	/	FALSE	1999999999	cdn-region	PE
+.americanas.com.br	TRUE	/	FALSE	1999999999	cdn-city	RECIFE
+

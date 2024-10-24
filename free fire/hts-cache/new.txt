@@ -1,0 +1,2 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+21:05:29	450/450	---M-Z	200	added ('OK')	text/plain	etag:W/%223db4b6e1300e77a9f239caf81f8c1f67%22	https://www.americanas.com.br/robots.txt		(from )
